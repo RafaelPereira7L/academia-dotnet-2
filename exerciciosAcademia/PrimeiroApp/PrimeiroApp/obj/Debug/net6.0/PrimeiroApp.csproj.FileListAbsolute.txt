@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.exe
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.deps.json
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.dll
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\bin\Debug\net6.0\PrimeiroApp.pdb
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.dll
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\refint\PrimeiroApp.dll
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.pdb
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\PrimeiroApp.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\Repos VS\PrimeiroAPP\PrimeiroApp\PrimeiroApp\obj\Debug\net6.0\ref\PrimeiroApp.dll
