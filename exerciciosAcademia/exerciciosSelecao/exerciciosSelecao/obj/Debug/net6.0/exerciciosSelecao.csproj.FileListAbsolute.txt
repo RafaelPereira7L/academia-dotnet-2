@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\bin\Debug\net6.0\exerciciosSelecao.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\bin\Debug\net6.0\exerciciosSelecao.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\bin\Debug\net6.0\exerciciosSelecao.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\bin\Debug\net6.0\exerciciosSelecao.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\bin\Debug\net6.0\exerciciosSelecao.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\refint\exerciciosSelecao.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\exerciciosSelecao.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\exerciciosSelecao\exerciciosSelecao\obj\Debug\net6.0\ref\exerciciosSelecao.dll
