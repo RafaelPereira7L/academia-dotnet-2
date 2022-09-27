@@ -307,24 +307,145 @@ float preco = qtdLatas*80;
 Console.WriteLine("Quantidade de latas: "+qtdLatas);
 Console.WriteLine("Preço total: "+preco);*/
 
+
 /*
-16 - Escreva um algoritmo que leia o placar de um jogo da primeira fase da copa do Brasil. Caso o time de fora tenha ganho o jogo por mais de 2 gols de diferença, mostre
-na tela uma mensagem indicando que o time de fora já se classificou para a próxima fase. Caso contrário, mostre uma mensagem indicando que os dois times irão se
-enfrentar novamente em um novo jogo.
-ex: time da casa 4 x 3 time de fora, mostra "Os dois times se enfrentarão em um novo jogo"
-ex2: time da casa 1 x 3 time de fora, mostra "O time de fora já se classificou"
-plus: caso ocorra um segundo jogo, leia o placar desse novo jogo e então diga quem passou de fase.
+EXERCICIO 16
+Console.WriteLine("Informe o placar do time da casa");
+int timeCasa = int.Parse(Console.ReadLine());
+Console.WriteLine("Informe o placar do time de fora");
+int timeFora = int.Parse(Console.ReadLine());
 
-17 - Faça um algoritmo que leia o tamanho dos lados de um triangulo (lado a, b e c), e então diga se esses lados podem ou não formar um triangulo. Para que os lados
-formem um triângulo, todos os lados devem ser menores ou iguais a soma dos outros dois lados. Caso os lados formem um triangulo, diga se o mesmo é equilátero (todos
-os lados iguais), isoceles (somente 2 lados são iguais) ou escaleno (os 3 lados são diferentes).
+if (timeFora - timeCasa >= 2)
+{
+    Console.WriteLine("O time de fora já se classificou");
+}
+else
+{
+    Console.WriteLine("Os dois times se enfrentarão em um novo jogo");
+    Console.WriteLine("Informe o placar do time da casa");
+    int timeCasa2 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Informe o placar do time de fora");
+    int timeFora2 = int.Parse(Console.ReadLine());
+    if (timeCasa2 > timeFora2)
+    {
+        Console.WriteLine("O time da casa passou de fase");
+    }
+    else
+    {
+        Console.WriteLine("O time de fora passou de fase");
+    }
+}*/
 
+
+
+/*
+EXERCICIO 17
+int lado1, lado2, lado3;
+
+    Console.WriteLine("Informe um lado");
+    lado1 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Informe um lado");
+    lado2 = int.Parse(Console.ReadLine());
+    Console.WriteLine("Informe um lado");
+    lado3 = int.Parse(Console.ReadLine());
+
+    if(lado1 < lado2+lado3 && lado2 < lado1 + lado2 && lado3 < lado1 + lado2)
+    {
+        if(lado1 == lado2 && lado1 == lado3)
+        {
+            Console.WriteLine("Triangulo equilatero");
+        } else if(lado1 == lado2 || lado2 == lado3 || lado1 == lado3) 
+        {
+            Console.WriteLine("Triangulo isosceles");
+        }
+        else
+        {
+            Console.WriteLine("Triangulo escaleno");
+        }
+    }
+    else
+    {
+        Console.WriteLine("Não é um triangulo");
+    }
+
+}
+*/
+
+/*
 18 - Escreva um algoritmo que leia 3 valores pelo teclado e então informe qual o maior deles.
 
-19 - Ajuste o exercício 18 de maneira que mostre os valores informados em ordem crescente.
-
-20 - Escreva um algoritmo para o jogo de adivinhação do número secreto. O jogador tem 3 chances e recebe dicas do tipo “é maior” ou “é menor”. 
-plus: você pode gerar o número de forma randomica (função random c#).
-
 */
+
+/*
+EXERCICIO 18 
+Console.WriteLine("Informe o numero 1");
+int num1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Informe o numero 2");
+int num2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Informe o numero 3");
+int num3 = int.Parse(Console.ReadLine());
+
+if (num1 > num2 && num1 > num3)
+{
+    Console.WriteLine("O numero 1 -> "+num1+ " é maior do que "+num2+" e "+num3);
+} else if (num2 > num1 && num2 > num3)
+{
+    Console.WriteLine("O numero 2 -> "+num2+ " é maior do que "+num1+" e "+num3);
+}
+else
+{
+    Console.WriteLine("O numero 3 -> "+num3+ " é maior do que "+num1+" e "+num2);
+}*/
+
+/*
+EXERCICIO 10
+Console.WriteLine("Informe o numero 1");
+int num1 = int.Parse(Console.ReadLine());
+Console.WriteLine("Informe o numero 2");
+int num2 = int.Parse(Console.ReadLine());
+Console.WriteLine("Informe o numero 3");
+int num3 = int.Parse(Console.ReadLine());
+
+if (num1 > num2 && num1 > num3 && num2 > num3)
+{
+    Console.WriteLine(num3+ " - "+num2+" - "+num1);
+} else if (num2 > num1 && num2 > num3 && num1 > num3)
+{
+    Console.WriteLine(num3+ " - "+num1+" - "+num2);
+
+} else if (num2 > num1 && num2 > num3 && num3 > num1)
+{
+    Console.WriteLine(num1+ " - "+num3+" - "+num2);
+
+} else if (num3 > num1 && num3 > num2 && num1 > num2)
+{
+    Console.WriteLine(num2+ " - "+num1+" - "+num3);
+
+} else 
+{
+    Console.WriteLine(num1+ " - "+num2+" - "+num3);
+}*/
+
+
+/*
+EXERCICIO 20
+
+int numeroSecreto = 37;
+
+Console.WriteLine("Adivinhe o numero secreto");
+int num = int.Parse(Console.ReadLine());
+
+if (numeroSecreto > num)
+{
+    Console.WriteLine("É maior");
+} else if (numeroSecreto < num)
+{
+    Console.WriteLine("É menor");
+}
+else
+{
+    Console.WriteLine("Correto");
+}
+*/
+
 
