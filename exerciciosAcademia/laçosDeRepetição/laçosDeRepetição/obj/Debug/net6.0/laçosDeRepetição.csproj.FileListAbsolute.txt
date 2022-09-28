@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\bin\Debug\net6.0\laçosDeRepetição.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\refint\laçosDeRepetição.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\laçosDeRepetição.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\laçosDeRepetição\laçosDeRepetição\obj\Debug\net6.0\ref\laçosDeRepetição.dll
