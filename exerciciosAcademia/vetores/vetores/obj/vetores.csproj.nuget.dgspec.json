@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-2\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj": {}
+    "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-3\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj": {}
   },
   "projects": {
-    "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-2\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj": {
+    "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-3\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-2\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj",
+        "projectUniqueName": "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-3\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj",
         "projectName": "vetores",
-        "projectPath": "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-2\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj",
+        "projectPath": "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-3\\exerciciosAcademia\\vetores\\vetores\\vetores.csproj",
         "packagesPath": "C:\\Users\\Fael\\.nuget\\packages\\",
-        "outputPath": "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-2\\exerciciosAcademia\\vetores\\vetores\\obj\\",
+        "outputPath": "E:\\Repositorios\\Academia-dotnet\\academia-dotnet-3\\exerciciosAcademia\\vetores\\vetores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Fael\\AppData\\Roaming\\NuGet\\NuGet.Config",
