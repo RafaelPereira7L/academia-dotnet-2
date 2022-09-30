@@ -429,27 +429,162 @@ Console.WriteLine("Média de idade das mulheres "+mediaM);*/
 /*
 11. Ler as notas de uma turma de alunos e ao final imprimir a nota mais alta, a nota mais baixa, 
 a média aritmética da turma e a quantidade de alunos da turma. Usar -1 para encerrar a leitura.
+*/
 
+/*int[] nota = new int[5];
+int menor = 0, maior = 0, soma = 0;
+double media;
+
+for (int i = 0; i < nota.Length; i++)
+{
+    while (true)
+    {
+        Console.WriteLine("Informe a nota");
+        nota[i] = int.Parse(Console.ReadLine());
+        if (nota[i] == -1)
+        {
+            return;
+        }
+        else
+        {
+            if (nota[i] > maior)
+            {
+                maior = nota[i];
+            }
+
+            if (nota[i] < menor)
+            {
+                menor = nota[i];
+            }
+            soma += nota[i];
+            media = soma / nota[i];
+        }
+    }
+    
+}
+Console.WriteLine("Maior nota "+maior);
+Console.WriteLine("Menor nota "+menor);
+Console.WriteLine("Media das notas "+media);*/
+
+/*
+ 
 12. Apresentar o total da soma dos cem primeiros números inteiros.
+*/
 
+/*
+int soma = 0;
+
+for (int i = 0; i <= 100; i++)
+{
+    soma = soma + i;
+}
+Console.WriteLine(soma);
+*/
+
+/*
 13. Elaborar um programa que apresente o somatório dos valores pares existentes 
 entre 1 e 500.
+*/
 
+/*int soma = 0;
+
+for (int i = 0; i <= 100; i++)
+{
+    if (i % 2 == 0)
+    {
+        soma = soma + i;
+    }
+}
+Console.WriteLine(soma);*/
+
+/*
 14. Mostrar as potências de 2 variando de 0 a 10.
+*/
 
+/*
+for (int i = 0; i <= 10; i++)
+{
+    Console.WriteLine(Math.Pow(i, 2));
+}
+*/
+
+
+/*
 15. Ler 4 valores referentes a notas escolares de um aluno e imprimir uma mensagem dizendo se ele está aprovado 
 ou reprovado, após ter calculado sua média ponderando, considerando pesos 2, 1, 2, e 4, respectivamente. 
 Considerar nota 7,0 como mínima para aprovação.
+*/
+/*int[] nota = new int[4];
+int[] pesos = new int[4];
+pesos[0] = 2;
+pesos[1] = 1;
+pesos[2] = 2;
+pesos[3] = 4;
+int i=0;
+int soma=0;
+float media;
 
+for (i = 0; i < 4; i++)
+{
+    Console.WriteLine("Insira a nota");
+    nota[i] = int.Parse(Console.ReadLine());
+    nota[i] *= pesos[i];
+    soma += nota[i];
+}
+media = soma / 4;
+if (media >= 7)
+{
+    Console.WriteLine("Aprovado");
+}
+else
+{
+    Console.WriteLine("Reprovado");
+}*/
+
+/*
 16. Ler um número N qualquer menor ou igual a 50 e apresentar o valor obtido da 
 multiplicação sucessiva de N por 3 enquanto o produto for menor que 250 
 (N*3; N*3*3; N*3*3*3; etc).
+*/
 
+/*Console.WriteLine("Informe um numero");
+int num = int.Parse(Console.ReadLine());
+while (true)
+{
+    if (num < 250)
+    {
+        num *= 3;
+    }
+    else
+    {
+        return;
+    }
+}
+Console.WriteLine(num);*/
+
+/*
 17. Apresentar os quadrados dos números inteiros de 15 a 200.
+*/
 
+/*for (int i = 15; i < 200; i++)
+{
+    Console.WriteLine(Math.Pow(i, 2));
+}*/
+
+/*
 18. Elaborar um programa que apresente o valor de uma potência de uma base qualquer 
 elevada a um expoente qualquer, ou seja, NM.
+*/
 
+/*
+Random rnd = new Random();
+Console.WriteLine("Informe uma base");
+int basePotencia = int.Parse(Console.ReadLine());
+int expoente = rnd.Next();
+Console.WriteLine(Math.Pow(basePotencia, expoente));
+*/
+
+/*
 19. A prefeitura de uma cidade fez uma pesquisa entre seus habitantes, 
 coletando dados sobre o salário e número de filhos. A prefeitura deseja saber: 
  
@@ -458,7 +593,35 @@ b) média do número de filhos;
 c) maior salário;
 d) percentual de pessoas com salário até R$ 100,00.
 O final da leitura de dados se dará com a entrada de um salário negativo.
+*/
+/*
+int counter = 0;
+float totalSalario = 0;
+float mediaSalario = 0;
+float totalFilhos = 0;
+float mediaFilhos = 0;
+float maiorSalario = 0;
 
+while (true)
+{
+    Console.WriteLine("Informe o salario");
+    float salario = float.Parse(Console.ReadLine());
+    totalSalario += salario;
+    Console.WriteLine("Informe o numero de filhos");
+    float filhos = float.Parse(Console.ReadLine());
+
+    if (salario < 0) return;
+    if (salario > maiorSalario) maiorSalario = salario;
+    counter++;
+}
+mediaSalario = totalSalario / counter;
+mediaFilhos = totalFilhos / counter;
+Console.WriteLine("Media salario "+mediaSalario);
+Console.WriteLine("Media filhos "+mediaFilhos);
+Console.WriteLine("Maior salario "+maiorSalario);
+*/
+
+/*
 20. Foi realizada uma pesquisa de algumas características físicas da população de uma 
 certa região, a qual coletou os seguintes dados referentes a cada habitante para 
 serem analisados:
@@ -471,5 +634,29 @@ Faça um algoritmo que determine e escreva:
  
 - a maior idade dos habitantes
 - a quantidade de indivíduos do sexo feminino cuja idade está entre 18 e 35 anos inclusive
-e que tenham olhos verdes e cabelos louros.
+e que tenham olhos verdes e cabelos loiros.
 O final do conjunto de habitantes é reconhecido pelo valor -1 entrada como idade.*/
+
+/*
+int maiorIdade=0;
+int quantidadeMulheresCaracteristicas = 0;
+
+while (true)
+{
+    Console.WriteLine("Informe o sexo (masculino e feminino)");
+    string genero = Console.ReadLine();
+    Console.WriteLine("Informe a cor dos olhos (azuis, verdes ou castanhos)");
+    string olhos = Console.ReadLine();
+    Console.WriteLine("Informe a cor dos cabelos ( loiros, castanhos, pretos)");
+    string cabelos = Console.ReadLine();
+    Console.WriteLine("Informe a idade");
+    int idade = int.Parse(Console.ReadLine());
+
+    if (idade > maiorIdade) maiorIdade = idade;
+    if (genero == "feminino" && idade >= 18 && idade <= 35 && olhos == "verdes" && cabelos == "loiros")
+        quantidadeMulheresCaracteristicas++;
+    if (idade == -1) return;
+
+}
+Console.WriteLine("Maior idade dos habitantes "+maiorIdade);
+Console.WriteLine("Quantidade de indivíduos do sexo feminino cuja idade está entre 18 e 35 anos inclusive e que tenham olhos verdes e cabelos loiros. "+quantidadeMulheresCaracteristicas);*/

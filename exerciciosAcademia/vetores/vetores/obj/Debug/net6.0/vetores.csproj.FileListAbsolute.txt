@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\bin\Debug\net6.0\vetores.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\bin\Debug\net6.0\vetores.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\bin\Debug\net6.0\vetores.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\bin\Debug\net6.0\vetores.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\bin\Debug\net6.0\vetores.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\refint\vetores.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\vetores.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-2\exerciciosAcademia\vetores\vetores\obj\Debug\net6.0\ref\vetores.dll
