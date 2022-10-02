@@ -300,19 +300,155 @@ foreach(int num in vetor)
 }*/
 
 // EXERCICIO 12 
-
-int[] vetor = new int[10];
-
+/*int[] vetor = new int[10];
 for (int i = 0; i < vetor.Length; i++)
 {
     Console.WriteLine("Informe um numero");
     vetor[i] = int.Parse(Console.ReadLine());
 }
+Console.WriteLine("Informe um numero para verificar se está no array");
+int numero = int.Parse(Console.ReadLine());
+bool result = false;
+int posicao = 0;
+for (int i = 0; i < vetor.Length; i++)
+{
+    if (numero == vetor[i])
+    {
+        result = true;
+        posicao = i;
+    }
+}
+if (result == true)
+{
+    Console.WriteLine("O numero " + numero + " está no vetor na posição " + posicao);
+}
+else
+{
+    Console.WriteLine("O número fornecido não existe no vetor!");
+}*/
 
-Console.WriteLine("Informe 0 numero");
-numero = int.Parse(Console.ReadLine());
+// EXERCICIO 13
+/*int[] vetor = new int[100];
+int qtd2 = 0, qtd4 = 0, qtd8 = 0;
+int i = 0;
+while (true)
+{
+    Console.WriteLine("Informe um numero");
+    vetor[i] = int.Parse(Console.ReadLine());
+    if (vetor[i] == 2) qtd2++;
+    if (vetor[i] == 4) qtd4++;
+    if (vetor[i] == 8) qtd8++;
+    if (vetor[i] == -1) return;
+    i++;
+}
+Console.WriteLine("O numero 2 aparece "+qtd2+" vezes");
+Console.WriteLine("O numero 4 aparece "+qtd4+" vezes");
+Console.WriteLine("O numero 8 aparece "+qtd8+" vezes");*/
+
+// EXERCICIO 14
+/*int[] vetor = new int[50];
+int codigo = 1;
 
 for (int i = 0; i < vetor.Length; i++)
 {
-    
+    Console.WriteLine("Informe um numero");
+    vetor[i] = int.Parse(Console.ReadLine());
+
+    if (vetor[i] == 0) return;
+    if (vetor[i] == 1) codigo = 1;
+    if (vetor[i] == 2) codigo = 2;
 }
+
+if (codigo == 1)
+{
+    foreach(int num in vetor)
+    {
+        Console.Write(num+" | ");
+    }
+}
+else
+{
+    Array.Reverse(vetor);
+    foreach(int num in vetor)
+    {
+        Console.Write(num+" | ");
+    }
+}*/
+
+// EXERCICIO 15
+/*int[] vetor = new int[50];
+int[] vetor2 = new int[50];
+for (int i = 0; i < vetor.Length; i++)
+{
+    Console.WriteLine("Informe um numero");
+    vetor[i] = int.Parse(Console.ReadLine());
+}
+vetor2 = vetor;
+Array.Reverse(vetor2);
+foreach(int num in vetor)
+{
+    Console.Write(num+" | ");
+}
+Console.WriteLine("");
+foreach(int num in vetor2)
+{
+    Console.Write(num+" | ");
+}*/
+
+// EXERCICIO 16
+/*int[] x = new int[10] { 1,2,3,4,5,6,7,8,9, 10 };
+int[] y = new int[10] { 1,6,30,4,5,60,7,9, 10, 11 };
+int[] uniao = new int[20];
+int[] diferenca = new int[10];
+int[] interseccao = new int[10];
+Console.WriteLine("UNIÃO");
+x.CopyTo(uniao, 0);
+int auxU = 10;
+// 0  1  2  3  4  5  6  7  8   9
+//int[] x = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+//int[] y = new int[10] { 1, 6,30, 4, 5,60, 7, 9,10, 11 };
+for (int i = 0; i < y.Length; i++) 
+{//elementos de x e elementos y que não estão em X            
+for (int j = 0; j < x.Length; j++)
+{
+    if(y[i] == x[j])
+    {
+        break;
+    }
+    if(j == (x.Length - 1))
+    {
+        uniao[auxU] = y[i];
+        auxU++;
+    }
+}
+}
+for (int i = 0; i < auxU; i++)
+{
+    Console.WriteLine(uniao[i]);
+}
+Console.WriteLine("");
+Console.WriteLine("DIFERENÇA");
+//diferença - elementos de X que não estão no Y
+// 0  1  2  3  4  5  6  7  8   9
+//int[] x = new int[10] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+//int[] y = new int[10] { 1, 6,30, 4, 5,60, 7, 9,10, 11 };
+Console.WriteLine("INTERSECÇÃO");
+//os elementos que aparecem em X e Y            
+int auxI = 0;
+for (int i = 0; i < x.Length; i++)
+{
+    for (int j = 0; j < y.Length; j++)
+    {
+        if (x[i] == y[i])
+        {
+            interseccao[auxI] = x[i];
+            auxI++;
+            break;
+        }
+    }
+}
+for (int i = 0; i < auxI; i++)
+{
+    Console.WriteLine(interseccao[i]);
+}
+Console.WriteLine("");*/
