@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\bin\Debug\net6.0\Matrizes.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\refint\Matrizes.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\Matrizes.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\Matrizes\Matrizes\obj\Debug\net6.0\ref\Matrizes.dll
