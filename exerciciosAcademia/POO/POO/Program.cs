@@ -125,7 +125,61 @@ Menu
 Opção: 
 */
 
+/*List<string> cryptos = new List<string>();
 
+while (true)
+{
+    Console.WriteLine("Menu");
+    Console.WriteLine("1 - Cadastrar criptomoeda");
+    Console.WriteLine("2 - Listar criptomoedas");
+    Console.WriteLine("3 - Remover criptomoeda");
+    Console.WriteLine("4 - Sair");
+    Console.WriteLine("Opção: ");
+    int opcao = int.Parse(Console.ReadLine());
+    
+    if (opcao == 1)
+    {
+        Console.WriteLine("Informe o nome da crypto");
+        string crypto = Console.ReadLine().ToUpper();
+        if(!cryptos.Contains(crypto))
+        {
+            cryptos.Add(crypto);
+        }
+        else
+        {
+            Console.WriteLine("Esta criptomoeda já está cadastrada");
+        }
+    }
+
+    else if (opcao == 2)
+    {
+        foreach (var crypto in cryptos)
+        {
+            Console.Write(crypto+" | ");
+        }
+
+        Console.WriteLine("");
+    }
+    else if (opcao == 3)
+    {
+        Console.WriteLine("Informe o nome da crypto");
+        string crypto = Console.ReadLine().ToUpper();
+        if(cryptos.Contains(crypto))
+        {
+            cryptos.Remove(crypto);
+            Console.WriteLine("Esta criptomoeda foi removida com sucesso!");
+        }
+        else
+        {
+            Console.WriteLine("ERRO! Esta criptomoeda não existe");
+        }
+    }
+    else
+    {
+        return;
+    }
+    cryptos.Sort();
+}*/
 
 
 
@@ -133,9 +187,31 @@ Opção:
 5. Crie um programa em VS que popule duas listas (lista1 e lista2) com números aleatórios (100 a 200).
 A quantidade de números deve ser informada pelo usuário. Em seguida, o programa deve listar os 
 conteúdos das duas listas e exibir os números que aparecem em ambas as listas.
+*/
+/*
+Random rnd = new Random();
+List<int> lista1 = new List<int>();
+List<int> lista2 = new List<int>();
 
+Console.WriteLine("Informe a quantidade de numeros para preencher a lista");
+int qtd = int.Parse(Console.ReadLine());
+for (int i = 0; i < qtd; i++)
+{
+    lista1.Add(rnd.Next(100,200));
+    lista2.Add(rnd.Next(100,200));
+}
+for (int i = 100; i < 200; i++)
+{
+    if(lista1.Contains(i) && lista2.Contains(i)) Console.Write(i+" | ");
+}
+*/
+
+/*
 6. Continuação do exercício 1. Entretanto, quando listar os nomes, mostrar somente os sobrenomes.
 Além disso, o programa deve mostrar as pessoas que são da mesma família.
+
+
+
 
 /---------------------------------------------------------------------------------------------------------------/
 
