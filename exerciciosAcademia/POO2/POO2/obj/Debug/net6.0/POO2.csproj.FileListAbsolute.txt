@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\bin\Debug\net6.0\POO2.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\bin\Debug\net6.0\POO2.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\bin\Debug\net6.0\POO2.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\bin\Debug\net6.0\POO2.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\bin\Debug\net6.0\POO2.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\refint\POO2.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\POO2.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\POO2\POO2\obj\Debug\net6.0\ref\POO2.dll
