@@ -209,13 +209,32 @@ for (int i = 100; i < 200; i++)
 /*
 6. Continuação do exercício 1. Entretanto, quando listar os nomes, mostrar somente os sobrenomes.
 Além disso, o programa deve mostrar as pessoas que são da mesma família.
-
-
-
-
-/---------------------------------------------------------------------------------------------------------------/
-
-1 - Crie uma classe Livro que represente os dados básicos de um livro. Faça a leitura pelo teclado dos atributos e crie um construtor para fazer o instanciamento.  
-
-2 - Escreva uma classe Pessoa contendo todos os atributos de uma pessoa. Faça métodos para apresentar os dados.Faça a leitura pelo teclado dos atributos e crie um construtor para fazer o instanciamento.
 */
+/*List<string> nomes = new List<string>();
+do
+{
+    Console.WriteLine("Informe um nome");
+    Console.WriteLine("Para sair digite 'sair'");
+    string nome = Console.ReadLine();
+    string[] nomeCompleto = nome.Split(" ");
+
+    if (nome == "sair") break;
+    if (nomeCompleto.Length < 2)
+    {
+        Console.WriteLine("O nome deve conter no mínimo duas palavras");
+    }
+    if (nomes.Contains(nome.ToUpper()))
+    {
+        Console.WriteLine("Este nome já está cadastrado!");
+    }
+    else
+    {
+        nomes.Add(nome.Split(" ")[1].ToUpper());
+        nomes.Sort();
+    }
+} while (true);
+
+foreach (var nome in nomes)
+{
+    Console.WriteLine(nome);
+}*/
