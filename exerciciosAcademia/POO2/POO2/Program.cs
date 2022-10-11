@@ -1,4 +1,6 @@
 ﻿using POO2.Classes;
+using POO2.Herança;
+
 /*
 // 1
 Console.WriteLine("Informe o titulo do livro");
@@ -110,3 +112,9 @@ controle.trocarCanal(tv, 37);
 controle.aumentarCanal(tv);
 Console.WriteLine("----------------");
 controle.consultar(tv);*/
+
+/*Animal leao = new Leao("Leao", "Macho", "Sla");
+leao.Caminhar();
+leao.Dormir();
+leao.EmitirSom();
+leao.MostrarDados();*/
