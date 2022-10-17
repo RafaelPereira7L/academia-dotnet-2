@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\bin\Debug\net6.0\TryCatch.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\refint\TryCatch.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\TryCatch.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\TryCatch\TryCatch\obj\Debug\net6.0\ref\TryCatch.dll
