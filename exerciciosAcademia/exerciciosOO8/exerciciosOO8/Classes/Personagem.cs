@@ -2,8 +2,8 @@
 
 public class Personagem
 {
-    private string Nome;
-    private int Poder;
+    public string Nome { get; }
+    public int Poder { get; }
 
     public Personagem()
     {
