@@ -1,0 +1,15 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\bin\Debug\net6.0\exercicios9.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\bin\Debug\net6.0\exercicios9.deps.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\bin\Debug\net6.0\exercicios9.runtimeconfig.json
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\bin\Debug\net6.0\exercicios9.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\bin\Debug\net6.0\exercicios9.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.GeneratedMSBuildEditorConfig.editorconfig
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.AssemblyInfoInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.AssemblyInfo.cs
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\refint\exercicios9.dll
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\exercicios9.genruntimeconfig.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\exercicios9\exercicios9\obj\Debug\net6.0\ref\exercicios9.dll
