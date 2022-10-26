@@ -1,0 +1,11 @@
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\bin\Debug\WindowsForms.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.AssemblyReference.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.SuggestedBindingRedirects.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.exe
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.pdb
+E:\Repositorios\Academia-dotnet\academia-dotnet-3\exerciciosAcademia\WindowsForms\WindowsForms\obj\Debug\WindowsForms.Form1.resources
